@@ -5,8 +5,8 @@ Please use this only as a guideline for your project. You may take inspiration f
 
 ![Fantasy Cricket Game](/IMAGES/logo.png)
 
-GitHub repository for this project: https://github.com/jincy-p-janardhanan/Fantasy-Cricket-Game
+GitHub repository for this project: https://github.com/Ayan41/Fantasy-cricket-game
 
-Find me on GitHub: https://github.com/jincy-p-janardhanan
+Find me on GitHub: https://github.com/Ayan41/
 
-Find me on LinkedIn: https://www.linkedin.com/in/jincy-p-janardhanan/
+Find me on LinkedIn: https://www.linkedin.com/in/ayan-chakraborty-b637b9244
